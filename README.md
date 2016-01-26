@@ -1,12 +1,12 @@
 # SUIT CSS with Sass
 
-Play [SUIT CSS](http://suitcss.github.io) with [Sass](http://sass-lang.com).
+Hey, guy! Let's play [SUIT CSS](http://suitcss.github.io) with [Sass](http://sass-lang.com) together!!!
 
 This project depends on awesome mixins from [Compass](http://compass-style.org).
 
 ## Usage
 
-You could install by [Bower](http://bower.io):
+You could install `suitcss-sass` by [Bower](http://bower.io):
 
 ```bash
 bower install suitcss-sass
@@ -36,7 +36,7 @@ The last step is certainly
 @import "bower_components/suitcss-sass/index";
 ```
 
-Yes! You can already enjoy the magic of SUIT CSS!!!
+Yes! You can enjoy the magic of SUIT CSS with Sass now!!!
 
 ## API
 
